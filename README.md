@@ -40,7 +40,7 @@ Aplicación web para gestionar contactos usando ASP.NET Core MVC, Dapper y una b
    
    ├── Agenda.Managers/   # Lógica de negocio
    
-   ├── CrearTabla.sql     # Script de creación de tabla
+   ├── BBDD.sql     # Script de creación de tabla
    
    └── README.md          # Archivo de documentación
    
