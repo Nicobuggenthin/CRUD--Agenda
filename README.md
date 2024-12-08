@@ -1,4 +1,4 @@
-📒 CRUD de Contactos
+📒 CRUD de Agenda Contactos
 
 Aplicación web para gestionar contactos usando ASP.NET Core MVC, Dapper y una base de datos SQL en Azure.
 
@@ -34,7 +34,7 @@ Aplicación web para gestionar contactos usando ASP.NET Core MVC, Dapper y una b
 
 🗃️ Estructura del Proyecto
 
-📂 CRUD-Contactos
+📂 CRUD-Agenda
 
    ├── Agenda.Web/        # Interfaz web y controladores
    
