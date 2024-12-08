@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Agenda.Managers.Entidades.Contacto>
+
+@{
+    ViewData["Title"] = "Contactos Eliminados";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Usando el mismo layout que la vista de "Crear Contacto"
+}
+
+<h2 class="text-center">@ViewData["Title"]</h2>
+
+<table class="table table-striped table-bordered table-hover mt-4">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.First().Nombre)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Telefono)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Email)</th>
+            <th>Acción</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var contacto in Model)
+        {
+            <tr>
+                <td>@contacto.Nombre</td>
+                <td>@contacto.Telefono</td>
+                <td>@contacto.Email</td>
+                <td>
+                    <form asp-action="RestoreDeleted" method="post" class="form-inline">
+                        <input type="hidden" name="id" value="@contacto.Id" />
+                        <button type="submit" class="btn btn-success" title="Restaurar contacto">Restaurar</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="text-center mt-4">
+    <a asp-action="Index" class="btn btn-outline-secondary btn-sm ml-2">Volver a la lista</a>
+</div>

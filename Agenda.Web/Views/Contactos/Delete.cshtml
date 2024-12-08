@@ -1,0 +1,42 @@
+﻿@model Agenda.Managers.Entidades.Contacto
+
+@{
+    ViewData["Title"] = "Eliminar Contacto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center text-danger">Eliminar Contacto</h2>
+
+<h3 class="text-center">¿Está seguro de que desea eliminar este contacto?</h3>
+
+<div class="mt-4">
+    <h4 class="text-info">Detalles del Contacto</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" disabled placeholder="Nombre del contacto" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Telefono" class="control-label"></label>
+                <input asp-for="Telefono" class="form-control" disabled placeholder="Teléfono del contacto" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" disabled placeholder="Correo electrónico del contacto" />
+            </div>
+        </div>
+    </div>
+
+    <div class="text-center mt-4">
+        <form asp-action="DeleteConfirmed" method="post">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger btn-lg">Eliminar Contacto</button>
+        </form>
+    </div>
+
+    <div class="text-center mt-3">
+        <a asp-action="Index" class="btn btn-outline-secondary btn-lg">Volver a la Lista</a>
+    </div>
+</div>

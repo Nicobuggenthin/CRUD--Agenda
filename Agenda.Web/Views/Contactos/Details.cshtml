@@ -1,0 +1,36 @@
+﻿@model Agenda.Managers.Entidades.Contacto
+
+@{
+    ViewData["Title"] = "Detalles de Contacto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center text-dark">Detalles de Contacto</h2>
+
+<div class="mt-4">
+    <h4 class="text-info">Información del Contacto</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" disabled placeholder="Nombre del contacto" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Telefono" class="control-label"></label>
+                <input asp-for="Telefono" class="form-control" disabled placeholder="Teléfono del contacto" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" disabled placeholder="Correo electrónico del contacto" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="text-center mt-4">
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning btn-lg">Editar</a> |
+
+    <a asp-action="Index" class="btn btn-outline-secondary btn-lg">Volver a la Lista</a>
+</div>
+

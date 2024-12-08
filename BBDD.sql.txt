@@ -1,0 +1,7 @@
+CREATE TABLE NBUGGENTHIN_Contactos (
+    Id INT IDENTITY(1,1) PRIMARY KEY,         
+    Nombre VARCHAR(200) NOT NULL,              
+    Telefono VARCHAR(30) NOT NULL,             
+    Email VARCHAR(200) NULL,                   
+    Activo BIT NOT NULL DEFAULT 1              -- Campo Activo como BIT (1 = activo, 0 = inactivo)
+);

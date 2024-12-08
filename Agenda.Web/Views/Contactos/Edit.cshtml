@@ -1,0 +1,52 @@
+﻿@model Agenda.Managers.Entidades.Contacto
+
+@{
+    ViewData["Title"] = "Editar Contacto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center">@ViewData["Title"]</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success text-center">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger text-center">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+<div class="text-center mt-4">
+    <h3 class="text-muted">Editar Contacto</h3>
+</div>
+
+<form asp-action="Edit" class="mt-4">
+    <div class="form-group">
+        <label asp-for="Nombre" class="control-label"></label>
+        <input asp-for="Nombre" class="form-control" placeholder="Nombre del Contacto" />
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Telefono" class="control-label"></label>
+        <input asp-for="Telefono" class="form-control" placeholder="Teléfono del Contacto" />
+        <span asp-validation-for="Telefono" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Email" class="control-label"></label>
+        <input asp-for="Email" class="form-control" placeholder="Correo Electrónico del Contacto" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="text-center mt-4">
+        <button type="submit" class="btn btn-warning btn-lg">Guardar Cambios</button>
+        <a asp-action="Index" class="btn btn-outline-secondary btn-lg ml-2">Volver a la lista</a>
+    </div>
+</form>
+

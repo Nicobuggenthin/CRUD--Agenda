@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCDBCEC-AD16-4C75-87E9-0DD558C77E31}|Agenda.Managers\\Agenda.Managers.csproj|c:\\users\\bugge\\source\\repos\\crud agenda\\agenda\\agenda.managers\\entidades\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCDBCEC-AD16-4C75-87E9-0DD558C77E31}|Agenda.Managers\\Agenda.Managers.csproj|solutionrelative:agenda.managers\\entidades\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCDBCEC-AD16-4C75-87E9-0DD558C77E31}|Agenda.Managers\\Agenda.Managers.csproj|c:\\users\\bugge\\source\\repos\\crud agenda\\agenda\\agenda.managers\\managers\\contactomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCDBCEC-AD16-4C75-87E9-0DD558C77E31}|Agenda.Managers\\Agenda.Managers.csproj|solutionrelative:agenda.managers\\managers\\contactomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCDBCEC-AD16-4C75-87E9-0DD558C77E31}|Agenda.Managers\\Agenda.Managers.csproj|c:\\users\\bugge\\source\\repos\\crud agenda\\agenda\\agenda.managers\\repos\\contactorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCDBCEC-AD16-4C75-87E9-0DD558C77E31}|Agenda.Managers\\Agenda.Managers.csproj|solutionrelative:agenda.managers\\repos\\contactorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|c:\\users\\bugge\\source\\repos\\crud agenda\\agenda\\agenda.web\\controllers\\contactoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|solutionrelative:agenda.web\\controllers\\contactoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|c:\\users\\bugge\\source\\repos\\crud agenda\\agenda\\agenda.web\\models\\contactomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|solutionrelative:agenda.web\\models\\contactomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|c:\\users\\bugge\\source\\repos\\crud agenda\\agenda\\agenda.web\\views\\contactos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|solutionrelative:agenda.web\\views\\contactos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|c:\\users\\bugge\\source\\repos\\crud agenda\\agenda\\agenda.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|solutionrelative:agenda.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|c:\\users\\bugge\\source\\repos\\crud agenda\\agenda\\agenda.web\\views\\contactos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|solutionrelative:agenda.web\\views\\contactos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|c:\\users\\bugge\\source\\repos\\crud agenda\\agenda\\agenda.web\\views\\contactos\\restore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|solutionrelative:agenda.web\\views\\contactos\\restore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|c:\\users\\bugge\\source\\repos\\crud agenda\\agenda\\agenda.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|solutionrelative:agenda.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|c:\\users\\bugge\\source\\repos\\crud agenda\\agenda\\agenda.web\\views\\contactos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|solutionrelative:agenda.web\\views\\contactos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|c:\\users\\bugge\\source\\repos\\crud agenda\\agenda\\agenda.web\\views\\contactos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|solutionrelative:agenda.web\\views\\contactos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|c:\\users\\bugge\\source\\repos\\crud agenda\\agenda\\agenda.web\\views\\contactos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7AA9C45-A312-47CE-B775-66B20B542F86}|Agenda.Web\\Agenda.Web.csproj|solutionrelative:agenda.web\\views\\contactos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Managers\\Entidades\\Contacto.cs",
+              "RelativeDocumentMoniker": "Agenda.Managers\\Entidades\\Contacto.cs",
+              "ToolTip": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Managers\\Entidades\\Contacto.cs",
+              "RelativeToolTip": "Agenda.Managers\\Entidades\\Contacto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:30:21.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Models\\ContactoModel.cs",
+              "RelativeDocumentMoniker": "Agenda.Web\\Models\\ContactoModel.cs",
+              "ToolTip": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Models\\ContactoModel.cs",
+              "RelativeToolTip": "Agenda.Web\\Models\\ContactoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:30:04.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactoManager.cs",
+              "DocumentMoniker": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Managers\\Managers\\ContactoManager.cs",
+              "RelativeDocumentMoniker": "Agenda.Managers\\Managers\\ContactoManager.cs",
+              "ToolTip": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Managers\\Managers\\ContactoManager.cs",
+              "RelativeToolTip": "Agenda.Managers\\Managers\\ContactoManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:29:37.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Views\\Contactos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Agenda.Web\\Views\\Contactos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Views\\Contactos\\Create.cshtml",
+              "RelativeToolTip": "Agenda.Web\\Views\\Contactos\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:24:05.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactosController.cs",
+              "DocumentMoniker": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Controllers\\ContactosController.cs",
+              "RelativeDocumentMoniker": "Agenda.Web\\Controllers\\ContactosController.cs",
+              "ToolTip": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Controllers\\ContactosController.cs",
+              "RelativeToolTip": "Agenda.Web\\Controllers\\ContactosController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:10:01.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Managers\\Repos\\ContactoRepository.cs",
+              "RelativeDocumentMoniker": "Agenda.Managers\\Repos\\ContactoRepository.cs",
+              "ToolTip": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Managers\\Repos\\ContactoRepository.cs",
+              "RelativeToolTip": "Agenda.Managers\\Repos\\ContactoRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAtwCoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:30:10.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Restore.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Views\\Contactos\\Restore.cshtml",
+              "RelativeDocumentMoniker": "Agenda.Web\\Views\\Contactos\\Restore.cshtml",
+              "ToolTip": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Views\\Contactos\\Restore.cshtml",
+              "RelativeToolTip": "Agenda.Web\\Views\\Contactos\\Restore.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:43:15.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Agenda.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Agenda.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:08:32.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Agenda.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Program.cs",
+              "RelativeToolTip": "Agenda.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:08:23.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Views\\Contactos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Agenda.Web\\Views\\Contactos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Views\\Contactos\\Details.cshtml",
+              "RelativeToolTip": "Agenda.Web\\Views\\Contactos\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:28:52.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Views\\Contactos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Agenda.Web\\Views\\Contactos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Views\\Contactos\\Index.cshtml",
+              "RelativeToolTip": "Agenda.Web\\Views\\Contactos\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:12:56.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Views\\Contactos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Agenda.Web\\Views\\Contactos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Views\\Contactos\\Edit.cshtml",
+              "RelativeToolTip": "Agenda.Web\\Views\\Contactos\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:35:51.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Views\\Contactos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Agenda.Web\\Views\\Contactos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Bugge\\source\\repos\\CRUD Agenda\\Agenda\\Agenda.Web\\Views\\Contactos\\Delete.cshtml",
+              "RelativeToolTip": "Agenda.Web\\Views\\Contactos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:28:07.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
